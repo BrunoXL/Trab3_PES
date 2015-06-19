@@ -32,7 +32,7 @@ src | Código executável
 
 ```
 -Bruno Xavier Leitão
--Daniel de Mello
+-Daniel Paiva
 -Luis Eduardo Santiago
 -Luiz Guilherme Pitta
 -Marcio Ribeiro
