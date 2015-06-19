@@ -1,0 +1,42 @@
+----------------------------------------------------------------------------------------------------------------------------
+Roteiro para utilização:
+----------------------------------------------------------------------------------------------------------------------------
+
+1) 	Caminho para o código do wtrans:
+
+	/usr/local/kepler/htdocs/wtrans	
+	
+2) Para inicializar o servidor xavante:
+	$ xavante_start
+
+	OBS: É preciso deixar a janela do terminal onde o comando foi digitado aberta. Se ela for fechada o servidor é encerrado.
+	
+3) Para usar o "wtrans" apartir do navegador é preciso acessar o endereço:
+
+	http://localhost:8080/wtrans/index.html	
+	
+4) Para utilizar interface gráfica do MySQL:
+
+	$ mysql-query-browser	
+
+5) Exemplo de como abrir um arquivo lua com o scite:
+
+	$ scite config.lua
+	
+----------------------------------------------------------------------------------------------------------------------------
+Senhas e usuários
+----------------------------------------------------------------------------------------------------------------------------
+
+Senhas do sistema operacional:
+
+usuário: pes
+senha: 123456
+
+usuário:root
+senha: 123456
+
+Senha do banco de dados
+
+nome do banco: wtrans
+usuário: root
+senha: 123456
